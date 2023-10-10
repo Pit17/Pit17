@@ -4,7 +4,7 @@
 
 ###
 
-<h3 align="left">A student from Italy🏫</h3>
+<h3 align="center">A student from Italy🏫</h3>
 
 ###
 
