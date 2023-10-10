@@ -1,6 +1,6 @@
-<div align="center">
-  <img height="200" src="https://cdn.discordapp.com/attachments/623950257335828487/1161384051433808022/Hi__Im_Pietro_Malzone_1.gif?ex=65381a2f&is=6525a52f&hm=f23feec9de5033d4a868eab60e41fc5b0f6af024bf3de12d9c3d3f3408580687&"  />
-</div>
+<br clear="both">
+
+<h1 align="center">Hi, 👋 I ' m Pietro Malzone</h1>
 
 ###
 
@@ -16,6 +16,12 @@
 
 ###
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=maurodesouza&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maurodesouza&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
+
+
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
   <img width="12" />
@@ -27,5 +33,14 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
 </div>
+
+###
+
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
 
 ###
