@@ -38,6 +38,12 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Pit17&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
+
+
+
+![snake gif](https://github.com/Pit17/Pit17/blob/output/github-contribution-grid-snake.gif)
 [![](https://visitcount.itsvg.in/api?id=Pit17&icon=7&color=0)](https://visitcount.itsvg.in)
+
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
