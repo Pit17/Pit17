@@ -41,7 +41,9 @@
 
 
 
-![snake gif](https://github.com/Pit17/Pit17/blob/output/github-contribution-grid-snake.gif)
+![gitartwork](gitartwork.svg)
+
+
 [![](https://visitcount.itsvg.in/api?id=Pit17&icon=7&color=0)](https://visitcount.itsvg.in)
 
 
