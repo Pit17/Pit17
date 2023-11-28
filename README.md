@@ -10,13 +10,18 @@
 
 <h3 align="left">💫 About Me:</h3>
 
-###
 
-<h4 align="left">📚 I’m currently studying at ITT Blaise Pascal (FC)<br>🌱I’m currently learning C#, C++ and HTML5.<br>🏆Olinfo and Olicyber partecipant.<br>✌I like learning new things.</h4>
 
-###
+- 📚 I’m currently studying at ITT Blaise Pascal (FC).
 
- 🧠 School Repository [Here](https://github.com/Pit17/GitHUb/tree/main)
+- 🌱I’m currently learning C#, C++ and HTML5.
+
+- 🏆Olinfo and Olicyber partecipant.
+
+- 🧠 School Repository [Here.](https://github.com/Pit17/GitHUb/tree/main) 
+
+-  ✌ I like learning new things.
+
 
 
 
